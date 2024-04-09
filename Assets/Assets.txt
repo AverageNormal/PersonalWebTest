@@ -1,0 +1,5 @@
+This Folder Will Be Used To Store
+-Image
+-Video
+-Others
+locally
